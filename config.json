@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperperify",
+        "uuid": 16681896,
+        "checksum": "hq7ti"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
